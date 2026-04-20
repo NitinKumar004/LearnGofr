@@ -6,7 +6,6 @@ import (
 	"GoFr/database"
 	taskHandler "GoFr/handler/task"
 	userHandler "GoFr/handler/user"
-	"GoFr/migrations"
 
 	taskService "GoFr/service/task"
 	userService "GoFr/service/user"
